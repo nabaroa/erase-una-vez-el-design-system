@@ -1,6 +1,6 @@
 
 {
-  "name": "postcss-demo",
+  "name": "erase-una-vez-el-design-system",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nabaroa/postcss-treasure-map"
+    "url": "git://github.com/nabaroa/erase-una-vez-el-design-system"
   },
   "homepage": "",
   "description": ""
