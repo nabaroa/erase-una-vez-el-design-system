@@ -1,8 +1,12 @@
 :root {
   /*--color: #da223a;*/
-  --color: #ff8c01;
-  --accent-color: #f2b806;
-  --secondary-color: #08b4cd;
+  --color: #FF6F19;
+  --text-color: #222;
+  --background-dark-color: #B24200;
+  --background-color: #fbeac5;
+  /*--accent-color: #00B2B2;*/
+  --accent-color: #e49d00;
+  --secondary-color: #ff0185;
   --neutral-color: #5d867e;
   --basefont: lato, sans-serif;
   --bold: lato-bold, sans-serif;

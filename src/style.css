@@ -17,7 +17,7 @@
 /*---------------------------------------------
  * Components
  *---------------------------------------------- */
-@import "components/grid-debug.css"; 
+/*@import "components/grid-debug.css";*/
 
 /*---------------------------------------------
  * Vendor Lib 
@@ -36,4 +36,4 @@
  * Theme
  *---------------------------------------------- */
 @import "theme/night.css";
-@import "theme/slides_nak_4.0.css";
+@import "theme/slides_nak_5.0.css";

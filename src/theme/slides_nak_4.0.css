@@ -2,9 +2,9 @@
  * Color
  *---------------------------------------------- */
 body {
-  background: var(--opaque);
-  color: var(--neutraler);
-  background: radial-gradient(var(--white), var(--bare));
+  background: var(--background-color);
+  color: var(--text-color);
+  background: radial-gradient(var(--white), var(--white));
 }
 
 a {
@@ -12,7 +12,7 @@ a {
 }
 
 .color {
-  color: var(--color);
+  color: var(--accent-color);
 }
 
 .comment {
@@ -21,6 +21,9 @@ a {
 
 .background {
   background: var(--black);
+}
+.background-gradient{
+  background: linear-gradient(to bottom, #360d01 0%,#e7a200 100%);
 }
 .white{
   color:var(--white) !important;
@@ -458,10 +461,10 @@ dt {
     line-height: 1;
   }
   h1, h2, h3, p, dl,li {
-    color: var(--neutraler);
+    color: var(--text-color);
   }
   h1.color{
-    color:var(--color);
+    color:var(--accent-color);
   }
   .controls {
     .navigate-left {

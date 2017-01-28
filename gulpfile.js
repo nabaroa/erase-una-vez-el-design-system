@@ -30,8 +30,8 @@ gulp.task('css', function() {
         .pipe(postcss(processors))
         .pipe(gulp.dest('./dest'))
         .pipe(nano(configNano))
-        .pipe(gulp.dest('./css'))
-        .pipe(notify({ message: 'Your demo CSS is ready =^_^=' }));
+        .pipe(gulp.dest('./docs/css'))
+        .pipe(notify({ message: 'Your CSS is ready =^_^=' }));
 });
 // Watch
 gulp.task('watch', function() {
