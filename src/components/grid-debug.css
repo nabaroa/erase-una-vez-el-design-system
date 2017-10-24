@@ -1,4 +1,8 @@
 /*debug*/
+.nak{
+  background: #000;
+}
+
 [class*=debug] {
   border: 1px dashed white;
   display: flex;
