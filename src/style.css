@@ -4,7 +4,10 @@
  * http://naknak.me/thegoldrush
  * MIT licensed
  *
- */ 
+ */
+ .nak{
+   background: #000;
+ }
 
 /*---------------------------------------------
  * Helpers
